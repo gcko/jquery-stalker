@@ -14,7 +14,4 @@ https://github.com/luxx/jquery-stalker
 
 ## License
 
-Originally part of the Apache-2.0-Licensed AJS library http://docs.atlassian.com/aui/latest/AUI/js/atlassian/jquery/, it has since been
-deprecated: https://ecosystem.atlassian.net/browse/AUI-676. Modifications Copyright (c) 2012 Lane LaRue.
-Licensed under the Apache 2.0 license
-http://www.apache.org/licenses/LICENSE-2.0
+Copyright (c) 2012-2013 Lane LaRue & Jared Scott. See license file for full license details.
